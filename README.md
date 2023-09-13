@@ -1,16 +1,37 @@
-# mobile_cv_app
 
-A new Flutter project.
+# Mobile CV Application
 
-## Getting Started
+This is a Flutter application that allows users to view and edit their CV information.
 
-This project is a starting point for a Flutter application.
+## Setup Instructions
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository to your local machine.
+2. Install the Flutter SDK.
+3. Open the project in your IDE of choice.
+4. Run the app on an emulator or physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app has two main screens:
+
+* The home page displays the CV information.
+* The editing page allows users to modify the CV information.
+
+The app also has a few other features, such as:
+
+* Real-time updates: The CV information on the home page is updated in real time when changes are made on the editing page.
+* No third-party dependencies: The app uses only the native capabilities of the Flutter SDK.
+
+## Functionalities
+
+The app allows users to:
+
+* View their CV information.
+* Edit their CV information.
+* Save the changes to their CV information.
+
+## Other Pertinent Details
+
+* The app is written in Dart.
+* The app uses the Flutter SDK.
+* The app is compatible with Android only.
